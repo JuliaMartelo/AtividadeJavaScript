@@ -4,4 +4,4 @@
 
 let frutas = ["banana", "Abacate", "Abacaxi", "Morango"]
 
-console.log(frutas)
+console.log("Frutas do mercado:", frutas);
